@@ -25,10 +25,10 @@
 
 # Project:
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MaPhat&repo=Ds201-Re-identification-&theme=radical&show_owner=True&description_lines_count=5)](https://github.com/MaPhat/Ds201-Re-identification-)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MaPhat&repo=CS231-Vehicle-Image-Classification&theme=radical&show_owner=True&description_lines_count=5)](https://github.com/MaPhat/CS231-Vehicle-Image-Classification)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MaPhat&repo=DS310-Enhancing-Peformance-ViTHSD-task&theme=radical&show_owner=True&description_lines_count=5)](https://github.com/MaPhat/DS310-Enhancing-Peformance-ViTHSD-task)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MaPhat&repo=DS105-Project-Predict-Price-Of-Laptop&theme=radical&show_owner=True&description_lines_count=5)](https://github.com/MaPhat/DS105-Project-Predict-Price-Of-Laptop)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MaPhat&repo=DS108-Customer_Sentiment_Analysis_Based_on_ABSA_Approach&theme=radical&show_owner=True&description_lines_count=5)](https://github.com/MaPhat/DS108-Customer_Sentiment_Analysis_Based_on_ABSA_Approach)
-
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
